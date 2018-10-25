@@ -8,5 +8,5 @@ The goal of the first notebook is to explore and clean the data, solve the class
 
 ### The Second Notebook
 The goal is to 
-# a) analyze and compare the perfomance of different classifiers by means of their accuracy performance and provide confidence interval
-# c) evaluate probabilistic classifiers
+#### a) analyze and compare the perfomance of different classifiers by means of their accuracy performance and provide confidence interval
+#### c) evaluate probabilistic classifiers
