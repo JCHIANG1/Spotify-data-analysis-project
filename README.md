@@ -13,5 +13,6 @@ The goal of the first notebook is to
 
 ### The Second Notebook
 The goal is to 
- a) analyze and compare the perfomance of different classifiers by means of their accuracy performance and provide confidence interval
- b) evaluate probabilistic classifiers
+ 1. repeating the holdout procedure to evaluate the model performance with confidence interval
+ 2. analyze and compare the model perfomance with the paired t test
+ 3. evaluate probabilistic classifiers with ROC and Lift curves and report insights
