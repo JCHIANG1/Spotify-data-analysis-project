@@ -13,6 +13,6 @@ The goal of the first notebook is to
 
 ### The Second Notebook
 The goal is to 
- 1. repeating the holdout procedure to evaluate the model performance with confidence interval
+ 1. repeat the holdout procedure to evaluate the model performance with confidence interval
  2. analyze and compare the model perfomance with the paired t test
- 3. evaluate probabilistic classifiers with ROC and Lift curves and report insights
+ 3. evaluate probabilistic classifiers with ROC, Lift curves and gain chart to report insights
